@@ -1,0 +1,15 @@
+{
+    "name": "julianfichtinger/webt-core-views-in-mvc",
+    "autoload": {
+        "psr-4": {
+            "Julianfichtinger\\WebtCoreViewsInMvc\\Model\\Entity\\": "src/Model/Entity/"
+        }
+    },
+    "authors": [
+        {
+            "name": "julianficht",
+            "email": "1126@htl.rennweg.at"
+        }
+    ],
+    "require": {}
+}
